@@ -1,5 +1,5 @@
 # logica-programacion-1
-Ejercicio de comapración de 3 números
+Ejercicio de comapración de 3 números dados por el usuario; puede ser número entero o racional.
 
 ## Descripción
 
@@ -8,7 +8,6 @@ Programa desarrollado en **JavaScript** que solicita al usuario el ingreso de 3 
 ## Tecnologías utilizadas
 
 - **JavaScript**
-- **HTML5** (para la ejecución en el DOM)
 
 ## Funcionalidades
 
