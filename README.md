@@ -7,7 +7,7 @@ Programa desarrollado en **JavaScript** que solicita al usuario el ingreso de 3 
 
 ## Tecnologías utilizadas
 
-- **JavaScript** (Vanilla JS)
+- **JavaScript**
 - **HTML5** (para la ejecución en el DOM)
 
 ## Funcionalidades
@@ -44,5 +44,3 @@ Programa desarrollado en **JavaScript** que solicita al usuario el ingreso de 3 
 4, 4, 2   (orden de mayor a menor)
 2, 4, 4   (orden de menor a mayor)
 ```
-
-yecto se desarrolla con fines educativos.
